@@ -1,0 +1,5 @@
+name: pos-integration
+title: POS Integration
+version: ~
+nav:
+  - modules/ROOT/nav.adoc
