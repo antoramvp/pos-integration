@@ -1,0 +1,18 @@
+= Integrate Your POS
+
+This guide describes the basic steps required to integrate your POS application.
+
+== Before you begin
+
+Make sure you have:
+
+* Access to the payment platform
+* A configured payment terminal
+* Your integration credentials
+
+== Integration steps
+
+. Configure your credentials.
+. Connect your POS application.
+. Send a test payment request.
+. Verify the payment response.
