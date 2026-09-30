@@ -1,0 +1,9 @@
+= POS Integration
+
+Welcome to the POS Integration documentation.
+
+This documentation explains how to integrate a point-of-sale system with our sample payment platform.
+
+== Integration overview
+
+The POS integration allows a point-of-sale application to communicate with payment terminals.
