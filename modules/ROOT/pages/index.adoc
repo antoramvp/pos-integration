@@ -1,6 +1,6 @@
-NOTE: This page comes from repository No. 2: `pos-integration`.
-
 = POS Integration
+
+NOTE: This section comes from repository No. 2: `pos-integration`.
 
 Welcome to the POS Integration documentation.
 
