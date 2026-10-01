@@ -1,3 +1,5 @@
+NOTE: This page comes from repository No. 2: `pos-integration`.
+
 = POS Integration
 
 Welcome to the POS Integration documentation.
